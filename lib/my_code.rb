@@ -1,2 +1,4 @@
 def map_to_negativize (num)
-num = 0
+new = []
+i = 0
+while i
